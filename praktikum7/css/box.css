@@ -1,0 +1,32 @@
+.box1{
+    background-color: aqua;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 800px;
+}
+
+.box2{
+    background-color: salmon;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 800px;
+}
+
+.box3{
+    background-color: blueviolet;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 800px;
+}
+
+.box4{
+    background-color: red;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 800px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
